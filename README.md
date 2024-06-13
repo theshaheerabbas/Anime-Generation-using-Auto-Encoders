@@ -4,6 +4,11 @@ This technical investigation delves into the fascinating realm of transforming s
 ## Abstract
 The investigation pays homage to the innovative work of forerunners in the fields of neural network-driven image alteration and style transfer. Building upon their groundwork, we explore the finer points of anime picture conversion, with particular attention to the nuanced relationship between stylization and accuracy. Our goal is to strike a balance between retaining the essential elements of the original image and evoking typical anime elements like flowing hair, dramatic lighting, and expressive eyes through subtle manipulations inside the autoencoder’s latent space.
 
+## Dataset
+A custom dataset was created for this project.
+### Dataset link:
+https://drive.google.com/drive/folders/1OuFhx8BEWqNbsci_kyXtxGVS0RteNXyS?usp=sharing
+
 ## Key Objectives
 ### Balancing Stylization and Accuracy:
 Achieve a delicate equilibrium between retaining the essence of the original image and infusing it with anime aesthetics.

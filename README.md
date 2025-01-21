@@ -7,7 +7,7 @@ The investigation pays homage to the innovative work of forerunners in the field
 ## Dataset
 A custom dataset was created for this project.
 ### Dataset link:
-[https://drive.google.com/drive/folders/1OuFhx8BEWqNbsci_kyXtxGVS0RteNXyS?usp=sharing](https://www.kaggle.com/datasets/shaheerabbas/anime-image-generation/data)
+[Kaggle Dataset Link](https://www.kaggle.com/datasets/shaheerabbas/anime-image-generation/data)
 
 ## Key Objectives
 ### Balancing Stylization and Accuracy:
